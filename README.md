@@ -1,5 +1,2 @@
-# grammardb
-
-![GrammarDB Logo]
-(static/images/logo3a.png)
+![GrammarDB Logo](static/images/logo3a.png)
 
